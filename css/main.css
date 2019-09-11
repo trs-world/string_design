@@ -1,0 +1,12 @@
+body {
+	background-color:black;
+	height:100px;
+}
+
+span {
+	position: absolute;
+	left:15%;
+	color:yellow;
+	font-size: 30px;
+	-webkit-text-stroke: 1px #FF9900;
+}
